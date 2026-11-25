@@ -1,3 +1,4 @@
+
 # Walmart Enterprise Sales Analytics
 
 ### End-to-End Data Analytics | Business Intelligence | Machine Learning
@@ -331,7 +332,7 @@ Data Analytics | Business Analytics | Advanced Excel | SQL | Python | Data Clean
 
 ## About the Author
 
-**Hari Priya Potu**
+**Hari Priya**
 
 Data Analyst | Business Analyst
 
@@ -339,9 +340,9 @@ Data Analyst | Business Analyst
 - M.S. in Business Analytics
 - 3.5+ Years of Professional Analytics Experience
 
-[Professional Portfolio](https://haripriyapotu.github.io/business-data-analyst-portfolio/)
+[Professional Portfolio](https://haripriya-portfolio.github.io/business-data-analyst-portfolio/)
 
-[GitHub Profile](https://github.com/haripriyapotu)
+[GitHub Profile](https://github.com/haripriya-portfolio)
 
 ---
 
