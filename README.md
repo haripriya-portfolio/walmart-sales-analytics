@@ -265,13 +265,31 @@ Evaluate high-performing and underperforming departments to identify potential g
 
 Use validated predictive models to support demand planning, resource allocation and business forecasting.
 
-## Dataset
+## Dataset & Source Acknowledgment
 
-The project uses historical Walmart retail sales data covering 2010–2012.
+The project uses historical Walmart retail sales data covering 2010–2012, incorporating store information, department-level weekly sales, holiday indicators, economic factors and relevant business features.
 
-The analysis incorporates store information, historical weekly sales, holiday indicators and relevant business features.
+### Dataset Information
 
-[View Dataset Files](./data/)
+- **Dataset:** Retail Data Analytics
+- **Publisher:** Manjeet Singh
+- **Platform:** Kaggle
+- **Listed License:** CC0 – Public Domain
+- **Original Data Provider:** Walmart
+- **Sales Records:** 421,570
+- **Total Stores:** 45
+- **Unique Departments:** 81
+- **Analysis Period:** 2010–2012
+
+### Dataset Source
+
+[Retail Data Analytics – Kaggle](https://www.kaggle.com/datasets/manjeetsingh/retaildataset)
+
+The analysis was originally developed using the Walmart Recruiting dataset. Retail Data Analytics provides an equivalent source for the three core datasets.
+
+Full credit and acknowledgment are extended to Walmart, Kaggle and Manjeet Singh for making the dataset available.
+
+This independent project is intended for educational and professional portfolio purposes and is not affiliated with or endorsed by Walmart.
 
 ## Repository Structure
 
